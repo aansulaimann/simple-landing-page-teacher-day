@@ -58,3 +58,43 @@ header - navbar
   margin-left: -190px;
   z-index: -10;
 }
+
+/*----------------------------------------------
+home - area
+------------------------------------------------*/
+.caption-main h1 {
+  margin-top: 200px;
+}
+
+.caption-main h1 span {
+  color: #C2101C;
+  font-weight: bold;
+}
+
+.caption-main h6 {
+  margin-top: 35px;
+  line-height: 25px;
+  margin-bottom: 50px;
+  color: rgb(155, 155, 155);
+}
+
+.caption-main a {
+  height: 90px;
+  padding: 15px 25px 15px 25px;
+  background-color: #C2101C;
+  border-radius: 30px;
+}
+
+.img-teacher {
+  width: 200px;
+  position: absolute;
+  margin-top: 150px;
+  margin-left: 600px;
+}
+
+.img-trees {
+  position: absolute;
+  z-index: -10;
+  margin-top: -90px;
+  margin-left: -250px;
+}
