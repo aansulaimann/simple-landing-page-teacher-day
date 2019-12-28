@@ -161,3 +161,27 @@ favteacher
   color: #C2101C;
   font-weight: bold;
 }
+
+/*----------------------------------------------
+About me
+------------------------------------------------*/
+
+.about h3 {
+  font-size: 25px;
+}
+
+.about h3 span {
+  font-weight: bold;
+  color: #C2101C;
+}
+
+.desc-me h4 span,
+h6 span {
+  font-weight: bold;
+  color: #C2101C;
+}
+
+.desc-me h5 {
+  font-size: 18px;
+  color: rgb(155, 155, 155);
+}
