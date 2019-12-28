@@ -85,11 +85,10 @@ home - area
   border-radius: 30px;
 }
 
-.img-teacher {
-  width: 200px;
+.img-teacher img {
   position: absolute;
   margin-top: 150px;
-  margin-left: 600px;
+  margin-left: 190px;
 }
 
 .img-trees {
