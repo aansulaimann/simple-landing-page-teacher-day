@@ -52,3 +52,9 @@ header - navbar
   font-weight: bold;
   color: #C2101C !important;
 }
+
+.navbar .container img {
+  position: absolute;
+  margin-left: -190px;
+  z-index: -10;
+}
