@@ -78,7 +78,7 @@ home - area
   color: rgb(155, 155, 155);
 }
 
-.caption-main a {
+.caption-main .btn-lg {
   height: 90px;
   padding: 15px 25px 15px 25px;
   background-color: #C2101C;
@@ -96,4 +96,41 @@ home - area
   z-index: -10;
   margin-top: -90px;
   margin-left: -250px;
+}
+
+/*----------------------------------------------
+happy teacher day
+------------------------------------------------*/
+
+.man-teacher img {
+  height: 300px;
+  margin-top: 300px;
+}
+
+.caption-teacher-day {
+  margin-top: 300px;
+}
+
+.caption-teacher-day h1 {
+  font-size: 25px;
+  font-weight: 200;
+}
+
+.caption-teacher-day h1 span {
+  color: #C2101C;
+  font-weight: bold;
+}
+
+.caption-teacher-day h6 {
+  color: rgb(155, 155, 155);
+  line-height: 30px;
+  margin-top: 30px;
+  margin-bottom: 45px;
+}
+
+.caption-teacher-day .btn-lg {
+  height: 90px;
+  padding: 15px 25px 15px 25px;
+  background-color: #C2101C;
+  border-radius: 30px;
 }
