@@ -185,3 +185,30 @@ h6 span {
   font-size: 18px;
   color: rgb(155, 155, 155);
 }
+
+/*----------------------------------------------
+About me
+------------------------------------------------*/
+.jurusan h5,
+.sekolah h5 {
+  font-size: 18px;
+  color: rgb(155, 155, 155);
+}
+
+.sekolah h6 {
+  font-size: 15px;
+  color: rgb(155, 155, 155);
+}
+
+.copy h5 {
+  margin-top: 10px;
+  color: black;
+  font-size: 16px;
+}
+
+.jurusan h5 span,
+.sekolah h5 span,
+.copy h5 span {
+  color: #C2101C;
+  font-weight: bold;
+}
