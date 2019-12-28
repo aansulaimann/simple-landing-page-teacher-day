@@ -1,0 +1,155 @@
+/* ---------------------------------------------------------------------------------------------
+Jumbo
+---------------------------------------------------------------------------------------------*/
+
+#Image_main {
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 90px;
+}
+
+h2 {
+    font-size: 45px;
+    margin-left: 125px;
+    margin-top: 100px;
+    position: absolute;
+    font-weight: 400;
+}
+
+span {
+    color: #C2101C;
+    font-weight: 700;
+}
+
+#quotes_ {
+    color: #6A6A6A;
+    font-size: 18px;
+    margin-left: 125px;
+    margin-top: 230px;
+    position: absolute;
+    font-weight: 100;
+    line-height: 35px;
+}
+
+#btn_get {
+    position: absolute;
+    color: white;
+    border-radius: 50px;
+    width: 140px;
+    margin-left: 125px;
+    margin-top: 380px;
+    z-index: 1;
+}
+
+/* 
+---------------------------------------------------------------------------------------------
+History of teacher day
+---------------------------------------------------------------------------------------------
+*/
+#trees_ {
+    position: absolute;
+    margin-top: 290px;
+    margin-left: -130px;
+}
+
+#teacher2 {
+    margin-left: 125px;
+    margin-top: 680px;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+}
+
+#happy {
+    position: absolute;
+    margin-top: 680px;
+    margin-left: 620px;
+}
+
+#History_ {
+    color: #6A6A6A;
+    font-size: 18px;
+    margin-left: 620px;
+    margin-top: 735px;
+    position: absolute;
+    font-weight: 100;
+    line-height: 35px;
+}
+
+#btn_read {
+    position: absolute;
+    color: white;
+    border-radius: 50px;
+    width: 140px;
+    margin-left: 620px;
+    margin-top: 950px;
+    z-index: 1;
+}
+
+/* 
+---------------------------------------------------------------------------------------------
+Favorite Teacher
+---------------------------------------------------------------------------------------------
+*/
+
+#favorite {
+    margin-top: 1200px;
+    height: 600px;
+    background-color: #EFEFEF;
+    z-index: -000;
+}
+
+#fav_teacher {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 440px;
+}
+
+.card {
+    margin-top: 130px;
+}
+
+p {
+    color: #6A6A6A;
+    font-size: 14px;
+    line-height: 25px;
+}
+
+/* 
+---------------------------------------------------------------------------------------------
+Favorite Teacher
+---------------------------------------------------------------------------------------------
+*/
+#tree_ {
+    position: absolute;
+    margin-left: -50px;
+    margin-top: -90px;
+}
+
+#about_ {
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 50px;
+}
+
+#img_about {
+    margin-left: 540px;
+    margin-top: 130px;
+}
+
+#data_ {
+    margin-top: 40px;
+    text-align: center;
+}
+
+/* 
+---------------------------------------------------------------------------------------------
+footer
+---------------------------------------------------------------------------------------------
+*/
+
+#footer {
+    margin-top: 180px;
+    height: 19 0px;
+    background-color: #EFEFEF;
+}
