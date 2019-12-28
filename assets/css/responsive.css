@@ -1,8 +1,38 @@
 /* large mobile versopn */
-@media only screen and (min-width: 480px) and (max-width: 767px) {}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+  /* navbar */
+  .navbar {
+    box-shadow: 5px 5px 10px rgb(219, 219, 219);
+  }
+
+  .navbar-toggler {
+    border: none;
+  }
+}
 
 /* medium mobile version */
-@media only screen and (min-width: 360px) and (max-width: 479px) {}
+@media only screen and (min-width: 360px) and (max-width: 479px) {
+
+  /* navbar */
+  .navbar {
+    box-shadow: 5px 5px 10px rgb(219, 219, 219);
+  }
+
+  .navbar-toggler {
+    border: none;
+  }
+}
 
 /* small mobile version */
-@media only screen and (min-width: 320px) and (max-width: 359px) {}
+@media only screen and (min-width: 320px) and (max-width: 359px) {
+
+  /* navbar */
+  .navbar {
+    box-shadow: 5px 5px 10px rgb(219, 219, 219);
+  }
+
+  .navbar-toggler {
+    border: none;
+  }
+}
