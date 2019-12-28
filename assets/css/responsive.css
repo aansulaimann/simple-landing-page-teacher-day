@@ -43,6 +43,13 @@
     text-align: center;
     font-size: 25px;
   }
+
+  /* favteacher */
+  .favteacher .img-sec {
+    width: 200px;
+    margin-top: -90px;
+    margin-left: -530px;
+  }
 }
 
 /* medium mobile version */
@@ -90,6 +97,13 @@
     text-align: center;
     font-size: 25px;
   }
+
+  /* favteacher */
+  .favteacher .img-sec {
+    width: 200px;
+    margin-top: -90px;
+    margin-left: -530px;
+  }
 }
 
 /* small mobile version */
@@ -136,5 +150,12 @@
   .caption-teacher-day h1 {
     text-align: center;
     font-size: 25px;
+  }
+
+  /* favteacher */
+  .favteacher .img-sec {
+    width: 200px;
+    margin-top: -90px;
+    margin-left: -530px;
   }
 }
