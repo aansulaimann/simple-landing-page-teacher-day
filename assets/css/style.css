@@ -134,3 +134,30 @@ happy teacher day
   background-color: #C2101C;
   border-radius: 30px;
 }
+
+/*----------------------------------------------
+favteacher
+------------------------------------------------*/
+.favteacher {
+  margin-top: 200px;
+  height: 675px;
+}
+
+.favteacher .img-sec {
+  overflow: hidden;
+  position: absolute;
+  width: 500px;
+  margin-top: -220px;
+  margin-left: 1100px;
+}
+
+.favteacher .img-tre {
+  position: absolute;
+  margin-top: -15px;
+  margin-left: -70px;
+}
+
+.caption h5 span {
+  color: #C2101C;
+  font-weight: bold;
+}
