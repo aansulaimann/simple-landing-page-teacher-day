@@ -9,6 +9,24 @@
   .navbar-toggler {
     border: none;
   }
+
+  .navbar-collapse {
+    background-color: rgb(245, 171, 176);
+    padding-left: 10px;
+    border-radius: 10px;
+    border: 1px white;
+  }
+
+  /* home - area */
+  .img-teacher img {
+    width: 100px;
+    margin-left: -400px
+  }
+
+  .caption-main h1 {
+    font-size: 35px;
+    margin-top: 120px
+  }
 }
 
 /* medium mobile version */
@@ -22,6 +40,24 @@
   .navbar-toggler {
     border: none;
   }
+
+  .navbar-collapse {
+    background-color: rgb(245, 171, 176);
+    padding-left: 10px;
+    border-radius: 10px;
+    border: 1px white;
+  }
+
+  /* home - area */
+  .img-teacher img {
+    width: 100px;
+    margin-left: -400px
+  }
+
+  .caption-main h1 {
+    font-size: 35px;
+    margin-top: 120px
+  }
 }
 
 /* small mobile version */
@@ -34,5 +70,23 @@
 
   .navbar-toggler {
     border: none;
+  }
+
+  .navbar-collapse {
+    background-color: rgb(245, 171, 176);
+    padding-left: 10px;
+    border-radius: 10px;
+    border: 1px white;
+  }
+
+  /* home - area */
+  .img-teacher img {
+    width: 100px;
+    margin-left: -400px
+  }
+
+  .caption-main h1 {
+    font-size: 35px;
+    margin-top: 120px
   }
 }
