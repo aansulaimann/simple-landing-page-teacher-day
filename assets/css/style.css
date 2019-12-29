@@ -45,12 +45,12 @@ header - navbar
 .navbar-brand {
   margin-top: 20px;
   font-weight: bold;
-  color: #C2101C !important;
+  color: #c2101c !important;
 }
 
 .active {
   font-weight: bold;
-  color: #C2101C !important;
+  color: #c2101c !important;
 }
 
 .navbar .container img {
@@ -67,7 +67,7 @@ home - area
 }
 
 .caption-main h1 span {
-  color: #C2101C;
+  color: #c2101c;
   font-weight: bold;
 }
 
@@ -81,7 +81,7 @@ home - area
 .caption-main .btn-lg {
   height: 90px;
   padding: 15px 25px 15px 25px;
-  background-color: #C2101C;
+  background-color: #c2101c;
   border-radius: 30px;
 }
 
@@ -117,7 +117,7 @@ happy teacher day
 }
 
 .caption-teacher-day h1 span {
-  color: #C2101C;
+  color: #c2101c;
   font-weight: bold;
 }
 
@@ -131,7 +131,7 @@ happy teacher day
 .caption-teacher-day .btn-lg {
   height: 90px;
   padding: 15px 25px 15px 25px;
-  background-color: #C2101C;
+  background-color: #c2101c;
   border-radius: 30px;
 }
 
@@ -158,7 +158,7 @@ favteacher
 }
 
 .caption h5 span {
-  color: #C2101C;
+  color: #c2101c;
   font-weight: bold;
 }
 
@@ -172,13 +172,13 @@ About me
 
 .about h3 span {
   font-weight: bold;
-  color: #C2101C;
+  color: #c2101c;
 }
 
 .desc-me h4 span,
 h6 span {
   font-weight: bold;
-  color: #C2101C;
+  color: #c2101c;
 }
 
 .desc-me h5 {
@@ -209,6 +209,6 @@ About me
 .jurusan h5 span,
 .sekolah h5 span,
 .copy h5 span {
-  color: #C2101C;
+  color: #c2101c;
   font-weight: bold;
 }
